@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guiding Block</string>
+    <string name="activity_name_classification">Classify</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="help">Cara menggunakan: \n 1. Tekan tombol "MULAI" \n 2. Arahkan kamera ke guiding block kemudian sistem akan memproses warna, pola dan garis dari guiding block \n 3. Dengarkan hasil informasi dari aplikasi \n 4. Tekan tombol "BERHENTI" untuk menghentikan proses</string>
+    <string name="about">Aplikasi ini merupakan aplikasi bantu jalan untuk para penyandang disabilitas khususnya tunanetra. Aplikasi ini bekerja dengan cara mengikuti garis atau jalur guiding block dengan teknologi line follower, aplikasi ini juga dapat mengeluarkan suara peringatan berupa suara-suara tertentu agar para pengguna aplikasi ini dapat berjalan tanpa menggunakan tongkat walker</string>
+</resources>

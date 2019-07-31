@@ -1,0 +1,8 @@
+Belok Kanan
+Belok Kiri
+Berhenti
+Lurus
+Perempatan
+Pertigaan
+Serong Kanan
+Serong Kiri

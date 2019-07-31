@@ -1,0 +1,14 @@
+urutan:
+1. SplashActivity -> akan aktif selama 3 detik kemudian pindah activity
+2. MulaiActivity -> berisi tombol mulai, tombol help & abiyt, proses request device permission untuk camera, storage, dan telepon
+3. ClasssifierActivity -> Mengaktifkan camera di activity bersama CameraActivity supaya camera diaktifkan dan tensor flow akan mendeteksi pola dari setiap gambar yg diambil oleh camera
+
+
+Referensi:
+Log: https://developer.android.com/studio/debug/am-logcat?hl=id
+Intent: https://www.dumetschool.com/blog/Belajar-Membuat-Intent-di-Android
+Handler: http://sugarcoatedfox.blogspot.com/2014/11/threads-asynctasks-dan-handlers.html
+Model: http://sisfoku.blogspot.com/2014/03/bagaimana-konsep-mvc-pada-android.html
+Permission App: https://www.codepolitan.com/memahami-app-permission-di-android-598adf12a57ab
+
+source code official azure for custom vision: https://github.com/Azure-Samples/cognitive-services-android-customvision-sample
